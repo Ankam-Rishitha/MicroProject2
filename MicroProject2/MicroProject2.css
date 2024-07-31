@@ -1,0 +1,152 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Delius+Unicase:wght@400;700&display=swap");
+.container1 {
+    background-color: #6F6AF7;
+    width: 1500px;
+    height: 127px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.icon {
+    color: white;
+    line-height: 78.81px;
+    font-family: "Delius Unicase";
+    font-size:xx-large;
+    margin-left: 30px;
+}
+.flex2 {
+    color: white;
+    margin-left: 300px;
+    line-height: 78.81px;
+    font-size:xx-large;
+}
+.te {
+    font-family: "DM Sans";
+}
+.image {
+    margin-left: 350px;
+    margin-top: 45.81px;
+}
+.container2 {
+    display: flex;
+    flex-direction: row;
+}
+.img {
+    margin-left: 105px;
+    border-radius: 20px;
+    margin-top: 180px;
+}
+.para {
+    height: 340px;
+    width: 850px;
+    background-color: #e5d8ff;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: 180px;
+    line-height: 30px;
+    font-family: "DM Sans";
+}
+.container3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100px;
+    margin-left: 105px;
+    margin-top: 150px;
+}
+.flex {
+    color: white;
+    font-family: "DM Sans";
+    text-align: center;
+    border-radius: 10px;
+    line-height: 10px;
+    width: 290px;
+}
+.flex6 {
+    background-color: #929DFF;
+}
+.flex7 {
+    background-color: #734CF2;
+}
+.flex8 {
+    background-color: #D288FF;
+}
+.flex9 {
+    background-color: #000000;
+}
+.container4 {
+    display: flex;
+    flex-direction: row;
+    background-color: #483EFF;
+    margin-left: 105px;
+    margin-top: 150px;
+    height: 350px;
+    width: 1300px;
+    border-radius: 10px;
+}
+.flexy1 {
+    display: flex;
+    flex-direction: column;
+}
+.text1 {
+    height: 80px;
+    width: 350px;
+    background-color: #BCE0F6;
+    margin-left: 40px;
+    font-family: "DM Sans";
+    text-align:center;
+    border-radius: 10px;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+.text2 {
+    height: 80px;
+    width: 350px;
+    color: white;
+    margin-left: 40px;
+    font-family: "DM Sans";
+    text-align:center;
+    margin-top: 40px;
+    border: 3px solid white;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+.flexy2 {
+    height: 268px;
+    width: 760px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 10px;
+    padding-left: 80px;
+    padding-top: 30px;
+    line-height: 40px;
+    font-size: larger;
+}
+.next {
+    margin-left: 600px;
+    background-color: #000000;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+}
+.sticky-sidebar {
+    position: fixed;
+    display: flex;
+    top: 50%;
+    right: 0;
+    flex-direction: column;
+}
+.icons {
+    border: 3px solid black;
+    border-radius: 8px;
+    padding: 5px;
+}
+.doubt {
+    position: fixed;
+    margin-left: 1300px;
+    top: 80%;
+}
+
